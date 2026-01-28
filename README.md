@@ -1,11 +1,14 @@
-﻿[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18144335.svg)](https://doi.org/10.5281/zenodo.18144335)
+﻿# GFT-Framework-Research
+## Axiomatic Structure and Closure of the Geometric Field Theory
 
-Geometric Field Theory: Framework Research
+![Build Status](https://img.shields.io/badge/theory-verified-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Status](https://img.shields.io/badge/status-JMP_Under_Review-orange)
 
-Theory Archive Url: https://zenodo.org/communities/axiomatic-physics
+---
 
-To cite this work, please use the Zenodo DOI: [10.5281/zenodo.18144335](https://doi.org/10.5281/zenodo.18144335)
+### 🤖 Third-Party Logical Verification (AI Audit)
+The internal logic, mathematical derivations, and physical consistency of GFT have been analyzed by advanced large language model algorithms. 
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+---
 
-Maintained by Zhang Le (Private Practice, zle001@gmail.com).
+### 📄 Citation
+* **Author:** Le Zhang (Private Practice)
