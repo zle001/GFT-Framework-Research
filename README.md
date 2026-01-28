@@ -1,7 +1,7 @@
 ﻿# GFT-Framework-Research
 ## Axiomatic Structure and Closure of the Geometric Field Theory
 
-![Build Status](https://img.shields.io/badge/theory-verified-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) 
+![License](https://img.shields.io/badge/license-MIT-blue) 
 
 ---
 
